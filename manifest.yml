@@ -1,0 +1,6 @@
+---
+applications:
+  - name: jhipster-registry
+    path: target/jhipster-registry-6.1.2.jar
+    routes:
+      - route: jhipster-registry.apps.dhccloud.com.cn
